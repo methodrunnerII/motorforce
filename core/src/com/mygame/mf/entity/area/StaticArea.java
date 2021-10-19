@@ -1,4 +1,4 @@
-package com.mygame.mf.area;
+package com.mygame.mf.entity.area;
 
 public class StaticArea extends Area {
 }
